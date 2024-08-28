@@ -21,7 +21,7 @@ I am a web developer with a passion for creating modern and functional websites.
 
 <p align="center">
   <a href="https://github.com/MO-ZAREI84" style="color: #6a6af1; text-decoration: none;">GitHub</a> |
-  <a href="mailto:zareisanim@example.com" style="color: #6a6af1; text-decoration: none;">Email</a>
+  <a href="mailto:zareisanim@gmail.com" style="color: #6a6af1; text-decoration: none;">Email</a>
 </p>
 
 >
